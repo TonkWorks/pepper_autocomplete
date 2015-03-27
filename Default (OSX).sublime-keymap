@@ -1,0 +1,13 @@
+[{
+    "keys": ["super+alt+shift+b"],
+    "command": "pepper_main_menu"
+}, {
+    "keys": ["super+0"],
+    "command": "pepper_launch"
+}, {
+    "keys": ["super+1"],
+    "command": "pepper_autocomplete"
+}, {
+    "keys": ["super+shift+b", "q"],
+    "command": "pepper_quit"
+}]

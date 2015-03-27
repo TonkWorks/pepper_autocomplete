@@ -1,0 +1,17 @@
+{
+    // The default location to open when firing up the browser.
+    "startup_location": "https://http://pepper-autocomplete.com/results/",
+    "pepper_license_key": "ENTER_KEY_HERE",
+    // Whether to maximize the browser window on startup.
+    "maximize_on_startup": false,
+    // If `maximize_on_startup` is false, the browser window will
+    // be moved to this position on startup ([x, y]).
+    "window_position": [0, 0],
+    // If `maximize_on_startup` is false, the browser window will
+    // be set to this size on startup ([width, height]).
+    // Useful if you want to open ST3 and the browser alongside
+    // in the same monitor.
+    "window_size": [480, 780],
+    // You will need a subscription to access this service.
+    // Get one at https://pepper-autocomple.com
+}

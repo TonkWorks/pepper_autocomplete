@@ -1,0 +1,25 @@
+[
+    {
+        "caption": "Pepper: Main Menu",
+        "command": "pepper_main_menu"
+    },
+    {
+        "caption": "Pepper: Launch Browser",
+        "command": "pepper_launch"
+    },
+    {
+        "caption": Pepper: Autocomplete",
+        "command": "pepper_autocomplete"
+    }
+    {
+        "caption": "Pepper: Close browser",
+        "command": "pepper_quit"
+    },
+    {
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/Pepper/Pepper.sublime-settings"
+        },
+        "caption": Pepper: Settings (Default)"
+    }
+]
